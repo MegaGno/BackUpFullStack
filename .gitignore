@@ -1,0 +1,10 @@
+# Ignore a specific file
+.env
+
+# Ignore an entire folder (include the trailing slash)
+node_modules/
+build/
+
+# Ignore all files with a specific extension
+*.log
+*.zip
